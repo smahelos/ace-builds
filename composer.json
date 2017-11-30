@@ -1,0 +1,17 @@
+{
+    "name": "smahelos/ace-builds",
+    "type": "library",
+    "version": "1.2.9",
+    "description": "",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Cloud9"
+        }
+    ],
+    "homepage": "http://ace.c9.io",
+
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
